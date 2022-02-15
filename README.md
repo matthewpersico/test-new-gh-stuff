@@ -2,6 +2,10 @@
 If you can't tell from the name....
 
 # Mermaid
+Docs: https://mermaid-js.github.io/mermaid/
+
+Emacs major mode: https://mermaidjs.github.io/
+
 ```mermaid
 graph TD;
     A[label A]-->B[label B];
